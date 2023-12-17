@@ -1,0 +1,11 @@
+Package            Version
+------------------ ----------
+certifi            2023.11.17
+charset-normalizer 3.3.2
+idna               3.6
+pip                22.0.2
+pyTelegramBotAPI   4.14.0
+requests           2.31.0
+setuptools         59.6.0
+telebot            0.0.5
+urllib3            2.1.0
